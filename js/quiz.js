@@ -55,7 +55,7 @@ async function fetchQuestions() {
   try {
     const response = await fetch("./data/dbCopy.json");
     const data = await response.json();
-    questions = shuffleArray(data.quizQuestions).slice(0, 3); // Limit to 20 questions
+    questions = shuffleArray(data.quizQuestions).slice(0, 20); // Limit to 20 questions
     showQuestion();
     console.log(data.quizQuestions);
   } catch (error) {
