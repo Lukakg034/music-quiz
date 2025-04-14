@@ -1,0 +1,652 @@
+{
+  "quizQuestions": [
+    {
+      "questionId": 1,
+      "question": "Šta je tempo?",
+      "image": null,
+      "answers": [
+        "Oznaka za prstored",
+        "Brzina izvođenja kompozicije ili jednog njenog dela",
+        "Trajanje jedne note",
+        "Isto što i artikulacija"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 2,
+      "question": "Šta je ritam?",
+      "image": null,
+      "answers": [
+        "Međusobno smenjivanje zvukova i pauza",
+        "Vrsta muzičkog instrumenta",
+        "Vrsta kompozicije",
+        "Drugačiji naziv za dirigentsku palicu"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 3,
+      "question": "Šta je melodija?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Ritmizovano smenjivanje jednog ili više tonova",
+        "Drugačiji naziv za monodiju",
+        "Vrsta kompozicije",
+        "Vrsta muzičkog instrumenta"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 4,
+      "question": "Dinamika je:",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Brzina izvođenja kompozicije ili jednog njenog dela",
+        "Jačina izvođenja jednog ili više tonova",
+        "Kratko izvođenje nota",
+        "Dugo izvođenje nota"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 5,
+      "question": "Šta označava izraz 'piano' u muzici?",
+      "image": null,
+      "audio": "",
+      "answers": ["Tiho", "Jako", "Sporo", "Brzo"],
+      "correct": 0
+    },
+    {
+      "questionId": 6,
+      "question": "Šta označava izraz 'forte' u muzici?",
+      "image": null,
+      "audio": "",
+      "answers": ["Tiho", "Umereno", "Brzo", "Jako"],
+      "correct": 3
+    },
+    {
+      "questionId": 7,
+      "question": "Šta označava izraz 'mezzo piano' u muzici?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Umereno brzo",
+        "Umereno oblačno",
+        "Umereno tiho",
+        "Umereno jako"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 8,
+      "question": "Šta označava izraz 'mezzo forte' u muzici?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Umereno sporo",
+        "Umereno brzo",
+        "Umereno tiho",
+        "Umereno jako"
+      ],
+      "correct": 3
+    },
+    {
+      "questionId": 9,
+      "question": "Šta znači oznaka D.C. al Fine (Da Capo al Fine) u notnom tekstu?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Od početka do kraja",
+        "Od početka do kraja sa ponavljanjem",
+        "Od kraja do početka",
+        "Od početka do sredine"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 12,
+      "question": "Koji se izraz u muzici koristi da označi umeren tempo?",
+      "image": "",
+      "audio": "",
+      "answers": ["Moderato", "Andante", "Presto", "Largo"],
+      "correct": 0
+    },
+    {
+      "questionId": 13,
+      "question": "Šta znači stakato izvođenje?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Kratko izvođenje nota",
+        "Dugo izvođenje nota",
+        "Tiho izvođenje nota",
+        "Jako izvođenje nota"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 14,
+      "question": "Šta znači legato izvođenje?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Izvođenje više nota bez pauza između njih",
+        "Tiho izvođenje nota",
+        "Kratko izvođenje nota",
+        "Izvođenje nota sa pauzama"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 15,
+      "question": "Koliko jedna cela nota ima četvrtina?",
+      "image": null,
+      "audio": "",
+      "answers": ["2", "4", "6", "8"],
+      "correct": 1
+    },
+    {
+      "questionId": 16,
+      "question": "Koliko jedna cela nota ima polovina?",
+      "image": null,
+      "audio": "",
+      "answers": ["1", "3", "2", "5"],
+      "correct": 2
+    },
+    {
+      "questionId": 17,
+      "question": "Koliko jedna cela nota ima osmina?",
+      "image": null,
+      "audio": "",
+      "answers": ["6", "10", "8", "4"],
+      "correct": 2
+    },
+    {
+      "questionId": 18,
+      "question": "Koliko jedna polovina note ima osmina?",
+      "image": null,
+      "audio": "",
+      "answers": ["4", "2", "8", "12"],
+      "correct": 0
+    },
+    {
+      "questionId": 19,
+      "question": "Koliko jedna polovina note ima četvrtina?",
+      "image": null,
+      "audio": "",
+      "answers": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "questionId": 20,
+      "question": "Koliko jedna četvrtina note ima osmina?",
+      "image": null,
+      "audio": "",
+      "answers": ["5", "1", "2", "3"],
+      "correct": 2
+    },
+    {
+      "questionId": 21,
+      "question": "Koliko jedna četvrtina note ima šesnaestina?",
+      "image": null,
+      "audio": "",
+      "answers": ["4", "2", "3", "8"],
+      "correct": 0
+    },
+    {
+      "questionId": 32,
+      "question": "Barok je muzički pravac koji je bio zastupljen u:",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Od početka X do kraja XII veka",
+        "Od početka XVII do sredine XVIII veka",
+        "Od početka XV do kraja XVIII veka",
+        "Kroz XI i XII vek"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 33,
+      "question": "Klasicizam je muzički pravac koji je bio zastupljen u:",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Drugoj polovini XVIII i prvoj polovini XIX veka",
+        "Prvoj polovini XVII veka",
+        "Drugoj polovini XIII i prvoj polovini XIV veka",
+        "Od početka IX pa do kraja XIII veka"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 34,
+      "question": "Romantizam je muzički pravac koji je bio zastupljen u:",
+      "image": null,
+      "audio": "",
+      "answers": ["XX veku", "XV veku", "XIX veku", "XVII"],
+      "correct": 2
+    },
+    {
+      "questionId": 35,
+      "question": "Kojoj grupi instrumenata pripada flauta",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Drveni duvački instrumenti",
+        "Limeni duvački instrumenti",
+        "Udaraljka sa određenom visinom tona",
+        "Žičani trzani instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 36,
+      "question": "Kojoj grupi instrumenata pripada klavir",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani gudački instrumenti",
+        "Žičani trzani instrumenti",
+        "Udaraljke sa neodređenom visinom tona",
+        "Žičani udarni instrumenti"
+      ],
+      "correct": 3
+    },
+    {
+      "questionId": 37,
+      "question": "Kojoj grupi instrumenata pripada saksofon",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Limeni duvački instrumenti",
+        "Drveni duvački instrumenti",
+        "Udaraljka sa određenom visinom tona",
+        "Žičani trzani instrumenti"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 38,
+      "question": "Kojoj grupi instrumenata pripada truba",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani gudački instrumenti",
+        "Drveni duvački instrumenti",
+        "Limeni duvački instrumenti",
+        "Udaraljka sa određenom visinom tona"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 39,
+      "question": "Kojoj grupi instrumenata pripada trombon",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Limeni duvački instrumenti",
+        "Udarni instrumenti sa klavijaturom",
+        "Žičani udarni instrumenti",
+        "Drveni duvački instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 40,
+      "question": "Kojoj grupi instrumenata pripada klarinet",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Limeni duvački instrumenti",
+        "Drveni duvački instrumenti sa mehom",
+        "Drveni duvački instrumenti",
+        "Limeni duvački instrumenti sa mehom"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 41,
+      "question": "Kojoj grupi instrumenata pripada oboa?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Drveni duvački instrumenti",
+        "Udaraljke",
+        "Žičani udarni instrumenti",
+        "Limeni duvački instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 42,
+      "question": "Kojoj grupi instrumenata pripada timpan?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Metalozvučna udaraljka",
+        "Udaraljke sa određenom visinom tona",
+        "Drvenozvučna udaraljka",
+        "Udaraljka sa neodređenom visinom tona"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 43,
+      "question": "Kojoj grupi instrumenata pripada marimba?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Drvozvučna udaraljka sa određenom visinom tona",
+        "Opnozvučna udaraljka sa određenom visinom tona",
+        "Žičani udarni instrumenti",
+        "Žičani trzani instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 44,
+      "question": "Kojoj grupi instrumenata pripada harfa?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani udarni instrumenti",
+        "Žičani gudački instrumenti",
+        "Žičani trzani instrumenti",
+        "Udaraljka sa određenom visinom tona"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 45,
+      "question": "Kojoj grupi instrumenata pripada tuba?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Limeni duvački instrumenti",
+        "Drveni duvački instrumenti",
+        "Žičani gudački instrumenti",
+        "Udaraljka sa određenom visinom tona"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 46,
+      "question": "Kojoj grupi instrumenata pripada violina?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani trzani instrumenti",
+        "Žičani gudački instrumenti",
+        "Udaraljka sa određenom visinom tona",
+        "Drveni duvački instrumenti"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 47,
+      "question": "Kojoj grupi instrumenata pripada violončelo?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani gudački instrumenti",
+        "Udaraljka sa neodređenom visinom tona",
+        "Žičani trzani instrumenti",
+        "Drveni duvački instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 48,
+      "question": "Kojoj grupi instrumenata pripada kontrabas?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani trzani instrumenti",
+        "Udaraljke sa neodređenom visinom tona",
+        "Limeni duvački instrumenti",
+        "Žičani gudački instrumenti"
+      ],
+      "correct": 3
+    },
+    {
+      "questionId": 49,
+      "question": "Kojoj grupi instrumenata pripada viola?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Udaraljke sa određenom visinom tona",
+        "Žičani gudački instrumenti",
+        "Žičani trzani instrumenti",
+        "Žičani udarni instrumenti"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 50,
+      "question": "Kojoj grupi instrumenata pripadaju gajde?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani udarni instrumenti",
+        "Drveni duvački instrumenti",
+        "Udaraljka sa određenom visinom tona",
+        "Limeni duvački instrumenti"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 51,
+      "question": "Kojoj grupi instrumenata pripadaju gusle?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Žičani gudački instrumenti",
+        "Limeni duvački instrumenti",
+        "Drveni duvački instrumenti",
+        "Udaraljka sa neodređenom visinom tona"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 52,
+      "question": "Kojoj grupi instrumenata pripada harmonika?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Duvački instrumenti sa mehom",
+        "Drveni duvački instrumenti",
+        "Žičani instrumenti sa klavijaturom",
+        "Limeni duvački instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 53,
+      "question": "Kojoj grupi instrumenata pripada usna harmonika?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Duvački instrumenti",
+        "Udaraljke",
+        "Žičani instrumenti",
+        "Žičani trzani instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 54,
+      "question": "Kojoj grupi instrumenata pripada triangl?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Udaraljka sa neodređenom visinom tona",
+        "Udaraljka sa određenom visinom tona",
+        "Duvački instrumenti",
+        "Limeni duvački instrumenti"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 55,
+      "question": "Šta je sordina?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Navoj za zatezanje žica kod gudačkih instrumenata",
+        "Prigušivač zvuka na muzičkim instrumentima",
+        "Vrsta morske ribe",
+        "Palica timpana"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 56,
+      "question": "Uloga desnog pedala na klaviru je da:",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Skrati trajanje odsviranih tonova",
+        "Produži trajanje odsviranih tonova",
+        "Onemogući sviranje na crnim dirkama",
+        "Onemogući sviranje na belim dirkama"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 57,
+      "question": "Šta je trzalica?",
+      "image": null,
+      "audio": "",
+      "answers": [
+        "Mehanički sistem klavira koji okida žice",
+        "Deo gudala",
+        "Komad plastike kojim se okidaju žice na gitari",
+        "Pragovi na gudačkim instrumentima"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 58,
+      "question": "Koliko žica ima violina?",
+      "image": null,
+      "audio": "",
+      "answers": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "questionId": 59,
+      "question": "Koliko žica ima viola?",
+      "image": null,
+      "audio": "",
+      "answers": ["2", "4", "5", "6"],
+      "correct": 1
+    },
+    {
+      "questionId": 60,
+      "question": "Koliko žica ima violončelo?",
+      "image": null,
+      "audio": "",
+      "answers": ["4", "6", "5", "8"],
+      "correct": 0
+    },
+    {
+      "questionId": 61,
+      "question": "Koliko žica ima kontrabas?",
+      "image": null,
+      "audio": "",
+      "answers": ["6", "3", "2", "4"],
+      "correct": 3
+    },
+    {
+      "questionId": 62,
+      "question": "Koliko žica ima standardna akustična gitara?",
+      "image": null,
+      "audio": "",
+      "answers": ["5", "6", "7", "4"],
+      "correct": 1
+    },
+    {
+      "questionId": 63,
+      "question": "Johan Sebastijan Bah je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Klasicizma", "Ars Nove", "Baroka", "Romantizma"],
+      "correct": 2
+    },
+    {
+      "questionId": 64,
+      "question": "Ludvig van Betoven je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Baroka", "Klasicizma", "Neoklasicizma", "Minimalizma"],
+      "correct": 1
+    },
+    {
+      "questionId": 65,
+      "question": "Volfgang Amadeus Mocart je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Klasicizma", "Postmodernizma", "Baroka", "Renesanse"],
+      "correct": 0
+    },
+    {
+      "questionId": 66,
+      "question": "Đovani Pijerluiđi da Palestrina je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Renesanse", "Baroka", "Neobaroka", "Klasicizma"],
+      "correct": 0
+    },
+    {
+      "questionId": 67,
+      "question": "Žosken de Pre je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Baroka", "Renesanse", "Romantizma", "Klasicizma"],
+      "correct": 1
+    },
+    {
+      "questionId": 68,
+      "question": "Petar Ilič Čajkovski je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Baroka", "Ars Nove", "Romantizma", "Klasicizma"],
+      "correct": 2
+    },
+    {
+      "questionId": 69,
+      "question": "Antonio Vivaldi je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Romantizma", "Klasicizma", "Baroka", "Neoklasicizma"],
+      "correct": 2
+    },
+    {
+      "questionId": 70,
+      "question": "Georg Fridrih Hendl je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Baroka", "Romantizma", "Klasicizma", "Ars Nove"],
+      "correct": 0
+    },
+    {
+      "questionId": 71,
+      "question": "Rihard Vagner je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Renesanse", "Romantizma", "Klasicizma", "Baroka"],
+      "correct": 1
+    },
+    {
+      "questionId": 72,
+      "question": "Frederik Šopen je bio kompozitor epohe:",
+      "image": null,
+      "audio": "",
+      "answers": ["Renesanse", "Klasicizma", "Baroka", "Romantizma"],
+      "correct": 3
+    }
+  ]
+}
