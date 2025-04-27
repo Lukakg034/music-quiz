@@ -1,0 +1,74 @@
+{
+  "quizQuestions": [
+    {
+      "questionId": 201,
+      "hasAudio": false,
+      "question": "Koji je instrument na slici?",
+      "hasImage": true,
+      "image": "./assets/images/instruments/acousticGuitar.webp",
+      "audio": "",
+      "answers": ["Truba", "Violina", "Harfa", "Gitara"],
+      "correct": 3
+    },
+    {
+      "questionId": 202,
+      "hasAudio": false,
+      "question": "Koji je instrument na slici?",
+      "hasImage": true,
+      "image": "./assets/images/instruments/flute.webp",
+      "audio": "",
+      "answers": ["Klarinet", "Harmonika", "Flauta", "Fagot"],
+      "correct": 2
+    },
+    {
+      "questionId": 203,
+      "hasAudio": false,
+      "question": "Koji je instrument na slici?",
+      "hasImage": true,
+      "image": "./assets/images/instruments/marimba.webp",
+      "audio": "",
+      "answers": ["Bubanj", "Marimba", "Klavir", "Triangl"],
+      "correct": 1
+    },
+    {
+      "questionId": 204,
+      "hasAudio": false,
+      "question": "Koji je instrument na slici?",
+      "hasImage": true,
+      "image": "./assets/images/instruments/pipeorgan.webp",
+      "audio": "",
+      "answers": ["Klavir", "Harmonika", "Tuba", "Orgulje"],
+      "correct": 3
+    },
+    {
+      "questionId": 205,
+      "hasAudio": false,
+      "question": "Koji je instrument na slici?",
+      "hasImage": true,
+      "image": "./assets/images/instruments/saxophone.webp",
+      "audio": "",
+      "answers": ["Saksofon", "Klarinet", "Flauta", "Trombon"],
+      "correct": 1
+    },
+    {
+      "questionId": 206,
+      "hasAudio": false,
+      "question": "Koji je instrument na slici?",
+      "hasImage": true,
+      "image": "./assets/images/instruments/trumpet.webp",
+      "audio": "",
+      "answers": ["Trombon", "Flauta", "Truba", "Triangl"],
+      "correct": 2
+    },
+    {
+      "questionId": 207,
+      "hasAudio": false,
+      "question": "Koji je instrument na slici?",
+      "hasImage": true,
+      "image": "./assets/images/instruments/tuba.webp",
+      "audio": "",
+      "answers": ["Trombon", "Tuba", "Flauta", "Saksofon"],
+      "correct": 1
+    }
+  ]
+}

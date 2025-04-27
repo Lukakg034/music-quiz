@@ -1,0 +1,245 @@
+{
+  "quizQuestions": [
+    {
+      "questionId": 73,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Bach_Toccata_in_D_minor.mp3",
+      "answers": [
+        "Ludvig van Betoven (Sonata br. 32)",
+        "Johan Sebastian Bah (Tokata i Fuga u d-molu)",
+        "Volfgang Amadeus Mocart (Simfonija br. 40)",
+        "Petar Ilič Čajkovski (Krcko Oraščić)"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 74,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Beethoven_furElise.mp3",
+      "answers": [
+        "Orlando di Laso (Miserere mei, Deus)",
+        "Antonio Vivaldi (Četiri godišnja doba)",
+        "Ludvig van Betoven (Za Elizu)",
+        "Karl Orf (Karmina Burana)"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 75,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Beethoven_odeToJoy.mp3",
+      "answers": [
+        "Volfgang Amadeus Mocart (Mala noćna muzika)",
+        "Ludvig van Betoven (Oda radosti)",
+        "Petar Ilič Čajkovski (Uvertira 1812)",
+        "Johan Sebastian Bah (Tokata i fuga u d-molu)"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 76,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Beethoven_5thSymphony.mp3",
+      "answers": [
+        "Moris Ravel (Bolero)",
+        "Klod Debisi (Potopljena katedrala)",
+        "Modest Musorgski (Slike sa izložbe)",
+        "Ludvig van Betoven (Peta simfonija)"
+      ],
+      "correct": 3
+    },
+    {
+      "questionId": 77,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Dvorak_SymphonyNo9.mp3",
+      "answers": [
+        "Antonjin Dvoržak (Simfonija br. 9)",
+        "Johan Sebastian Bah (Troglasna invencija c-mol)",
+        "Frederik Šopen (Nokturno br. 20 - cis-mol)",
+        "Aram Hačaturjan (Igra sabljama)"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 78,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Mozart_MalaNocnaMuzika.mp3",
+      "answers": [
+        "Ludvig van Betoven (Sonata br. 32)",
+        "Antonio Vivaldi (Leto)",
+        "Volfgang Amadeus Mocart (Mala noćna muzika)",
+        "Aleksandar Borodin (Polovetske igre)"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 79,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Mozart_Requiem_dies_irae.mp3",
+      "answers": [
+        "Karl Orf (Karmina Burana)",
+        "Kamij Sen-Sans (Ples smrti)",
+        "Ludvig van Betoven (Prva simfonija)",
+        "Volfgang Amadeus Mocart (Rekvijem)"
+      ],
+      "correct": 3
+    },
+    {
+      "questionId": 80,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Vivaldi_Summer_Presto.mp3",
+      "answers": [
+        "Antonio Vivaldi (Leto)",
+        "Sergej Rahmanjinov (Prva simfonija)",
+        "Žorž Bizet (Karmen)",
+        "Petar Ilič Čajkovski (Labudovo jezero)"
+      ],
+      "correct": 0
+    },
+    {
+      "questionId": 81,
+      "hasAudio": true,
+      "question": "Ko je komponovao ovu kompoziciju?",
+      "image": null,
+      "audio": "./assets/audio/klasicna/Vivaldi_Winter.mp3",
+      "answers": [
+        "Ludvig van Betoven (Sonata br. 32)",
+        "Arnold Šenberg (Psalam 130)",
+        "Antonio Vivaldi (Zima)",
+        "Rihard Štraus (Elektra)"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 82,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Blake_Shelton_GodsCountry.mp3",
+      "answers": [
+        "Rep (Rap)",
+        "Kantri (Country)",
+        "Pank (Punk)",
+        "Sving (Swing)"
+      ],
+      "correct": 1
+    },
+    {
+      "questionId": 83,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Bob_Marley_Jamming.mp3",
+      "answers": ["Rege (Reggae)", "Rep (Rap)", "Pank (Punk)", "Sving (Swing)"],
+
+      "correct": 0
+    },
+    {
+      "questionId": 84,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Bon_Jovi_KeepTheFaith.mp3",
+      "answers": ["Rep (Rap)", "Kantri (Country)", "Pank (Punk)", "Rok (Rock)"],
+
+      "correct": 3
+    },
+    {
+      "questionId": 85,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Eminem_LoseYourself.mp3",
+      "answers": ["Rep (Rap)", "Metal (Metal)", "Pop (Pop)", "Džez (Jazz)"],
+
+      "correct": 0
+    },
+    {
+      "questionId": 86,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Iron_Maiden_GhostOfTheNavigator.mp3",
+      "answers": [
+        "Pop (Pop)",
+        "Rep (Rap)",
+        "Hiphop (Hip-hop)",
+        "Metal (Metal)"
+      ],
+      "correct": 3
+    },
+    {
+      "questionId": 87,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Parov_Stelar_BootySwing.mp3",
+      "answers": [
+        "Rok (Rock)",
+        "Rep (Rep)",
+        "Elektrosving (Electro swing)",
+        "Kantri (Country)"
+      ],
+      "correct": 2
+    },
+    {
+      "questionId": 88,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Ray_Charles_HitTheRoadJack.mp3",
+      "answers": ["Džez (Jazz)", "Rep (Rap)", "Pop (Pop)", "Rok (Rock)"],
+      "correct": 0
+    },
+    {
+      "questionId": 89,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Sister_Sledge_He_sTheGreatestDancer.mp3",
+      "answers": ["Džez (Jazz)", "Rep (Rap)", "Fank (Funk)", "Metal (Metal)"],
+
+      "correct": 2
+    },
+    {
+      "questionId": 90,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/Taylor_Swift_ShakeItOff.mp3",
+      "answers": ["Pop (Pop)", "Rep (Rap)", "Kantri (Country)", "Džez (Jazz)"],
+
+      "correct": 0
+    },
+    {
+      "questionId": 91,
+      "hasAudio": true,
+      "question": "Kom muzičkom žanru pripada ova numera?",
+      "image": null,
+      "audio": "./assets/audio/popularna/The_Weeknd_BlindingLights.mp3",
+      "answers": [
+        "Metal (Metal)",
+        "Kantri (Country)",
+        "Pop (Pop)",
+        "Rege (Reggae)"
+      ],
+      "correct": 2
+    }
+  ]
+}
